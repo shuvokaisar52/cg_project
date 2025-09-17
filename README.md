@@ -15,15 +15,15 @@ Team members are -  **@Tofayel Hossain, @Md. Jakaria Naim, @Tanvir Hosen Nishat,
 📌 Future idea: add sound, user controls, and more details.<br>
 
 # Preview of Airport Design⬇️
-<img src="https://github.com/user-attachments/assets/c4f2b061-cce5-45f6-9b24-97f5cf4615c0" alt="image" width="400" />
-<img src="https://github.com/user-attachments/assets/30f4ed47-7901-4444-9b50-139c9f41d26e" alt="image" width="400" />
+<img src="https://ibb.co.com/67rd63mh" alt="image" width="400" />
+<img src="https://ibb.co.com/BH5L2WpC" alt="image" width="400" />
 
 # Preview of AIUB Campus Design⬇️
-<img src="https://github.com/user-attachments/assets/c4f2b061-cce5-45f6-9b24-97f5cf4615c0" alt="image" width="400" />
-<img src="https://github.com/user-attachments/assets/30f4ed47-7901-4444-9b50-139c9f41d26e" alt="image" width="400" />
+<img src="https://ibb.co.com/B2Fh7vJP" alt="image" width="400" />
+<img src="https://ibb.co.com/9922nwcq" alt="image" width="400" />
 
 # Preview of Village Design⬇️
-<img src="https://github.com/user-attachments/assets/c4f2b061-cce5-45f6-9b24-97f5cf4615c0" alt="image" width="400" />
-<img src="https://github.com/user-attachments/assets/30f4ed47-7901-4444-9b50-139c9f41d26e" alt="image" width="400" />
+<img src="https://ibb.co.com/7xK5TnTX" alt="image" width="400" />
+<img src="https://ibb.co.com/qY4188LF" alt="image" width="400" />
 
 
