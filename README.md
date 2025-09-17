@@ -16,14 +16,14 @@ Team members are -  **@Tofayel Hossain, @Md. Jakaria Naim, @Tanvir Hosen Nishat,
 
 # Preview of Airport Design⬇️
 <img src="https://github.com/shuvokaisar52/cg_project/blob/332dd6eec36cee50dc0f5a2a3173bbf434429267/assets/image%20(5).png" alt="image" width="400" />
-<img src="https://ibb.co.com/BH5L2WpC" alt="image" width="400" />
+<img src="https://github.com/shuvokaisar52/cg_project/blob/a723aee9e4f933ec16c78a6072380835cfc687ef/assets/image.png" alt="image" width="400" />
 
 # Preview of AIUB Campus Design⬇️
-<img src="https://ibb.co.com/B2Fh7vJP" alt="image" width="400" />
-<img src="https://ibb.co.com/9922nwcq" alt="image" width="400" />
+<img src="https://github.com/shuvokaisar52/cg_project/blob/a723aee9e4f933ec16c78a6072380835cfc687ef/assets/image%20(1).png" alt="image" width="400" />
+<img src="https://github.com/shuvokaisar52/cg_project/blob/a723aee9e4f933ec16c78a6072380835cfc687ef/assets/image%20(2).png" alt="image" width="400" />
 
 # Preview of Village Design⬇️
-<img src="https://ibb.co.com/7xK5TnTX" alt="image" width="400" />
-<img src="https://ibb.co.com/qY4188LF" alt="image" width="400" />
+<img src="https://github.com/shuvokaisar52/cg_project/blob/a723aee9e4f933ec16c78a6072380835cfc687ef/assets/image%20(3).png" alt="image" width="400" />
+<img src="https://github.com/shuvokaisar52/cg_project/blob/a723aee9e4f933ec16c78a6072380835cfc687ef/assets/image%20(4).png" alt="image" width="400" />
 
 
