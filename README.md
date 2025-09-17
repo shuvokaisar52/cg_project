@@ -15,7 +15,7 @@ Team members are -  **@Tofayel Hossain, @Md. Jakaria Naim, @Tanvir Hosen Nishat,
 📌 Future idea: add sound, user controls, and more details.<br>
 
 # Preview of Airport Design⬇️
-<img src="https://ibb.co.com/67rd63mh" alt="image" width="400" />
+<img src="https://github.com/shuvokaisar52/cg_project/blob/332dd6eec36cee50dc0f5a2a3173bbf434429267/assets/image%20(5).png" alt="image" width="400" />
 <img src="https://ibb.co.com/BH5L2WpC" alt="image" width="400" />
 
 # Preview of AIUB Campus Design⬇️
